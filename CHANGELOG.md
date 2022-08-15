@@ -1,5 +1,12 @@
 
 
+### [1.0.5](https://github.com/alvarlagerlof/react-scroll-edge/compare/1.0.4...1.0.5) (2022-08-15)
+
+
+### Build Changes
+
+* **deps:** pin dependencies ([7f47e50](https://github.com/alvarlagerlof/react-scroll-edge/commit/7f47e50b725e6de33d7cfc3488b61074b4f328b6))
+
 ### [1.0.4](https://github.com/alvarlagerlof/react-scroll-edge/compare/1.0.3...1.0.4) (2022-08-15)
 
 
