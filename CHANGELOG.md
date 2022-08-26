@@ -1,5 +1,12 @@
 
 
+### [1.0.9](https://github.com/alvarlagerlof/react-scroll-edge/compare/1.0.8...1.0.9) (2022-08-26)
+
+
+### Build Changes
+
+* **deps:** update dependency typescript to v4.8.2 ([d7d8cae](https://github.com/alvarlagerlof/react-scroll-edge/commit/d7d8cae01ccf4ed6fbb0445e4a680a94e2e3ea2f))
+
 ### [1.0.8](https://github.com/alvarlagerlof/react-scroll-edge/compare/1.0.7...1.0.8) (2022-08-24)
 
 
