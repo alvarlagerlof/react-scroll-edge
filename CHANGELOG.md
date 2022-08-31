@@ -1,5 +1,12 @@
 
 
+### [1.0.11](https://github.com/alvarlagerlof/react-scroll-edge/compare/1.0.10...1.0.11) (2022-08-31)
+
+
+### Build Changes
+
+* **deps:** update dependency release-it to v15.4.1 ([86cede7](https://github.com/alvarlagerlof/react-scroll-edge/commit/86cede7d3951153bb43482ec086986ea410d4628))
+
 ### [1.0.10](https://github.com/alvarlagerlof/react-scroll-edge/compare/1.0.9...1.0.10) (2022-08-29)
 
 
