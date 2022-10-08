@@ -1,5 +1,12 @@
 
 
+### [1.0.21](https://github.com/alvarlagerlof/react-scroll-edge/compare/1.0.20...1.0.21) (2022-10-08)
+
+
+### Build Changes
+
+* **deps:** update dependency @release-it/conventional-changelog to v5.1.1 ([68de9e5](https://github.com/alvarlagerlof/react-scroll-edge/commit/68de9e5ebeb7a64f545af90fc75fee61ac7b6486))
+
 ### [1.0.20](https://github.com/alvarlagerlof/react-scroll-edge/compare/1.0.19...1.0.20) (2022-10-08)
 
 
