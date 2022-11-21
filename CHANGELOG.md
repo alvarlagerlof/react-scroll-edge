@@ -1,5 +1,12 @@
 
 
+### [1.0.29](https://github.com/alvarlagerlof/react-scroll-edge/compare/1.0.28...1.0.29) (2022-11-21)
+
+
+### Build Changes
+
+* **deps:** lock file maintenance ([16f8c3a](https://github.com/alvarlagerlof/react-scroll-edge/commit/16f8c3a4ebad9743464cd794d3d6090f8c6c07d5))
+
 ### [1.0.28](https://github.com/alvarlagerlof/react-scroll-edge/compare/1.0.27...1.0.28) (2022-11-19)
 
 
